@@ -18,7 +18,7 @@
 
 ### 技術記事
 2020/09以前の活動は Qiita + 個人ブログ でした。  
-それ以降の活動は Zenn + 個人ブログで行っています。
+それ以降の活動は Zenn + 個人ブログで行っています。あと、たまに Crieit でも。
 
 #### 個人ブログ
 Jekyll 製。  
@@ -31,12 +31,16 @@ Jekyll 製。
 #### Zenn
 2020/09のリリースより、Qiita からこちらへ移行。  
 以降にあたって、それまで Qiita および個人ブログに投稿していた React 関連記事の一部を転載。  
-[Zenn - h_yoshikawa0724](https://zenn.dev/h_yoshikawa0724)
+[Zenn - よし](https://zenn.dev/h_yoshikawa0724)
 
 #### Qiita
 Zenn に移行前は、こちらで記事投稿をしていました。  
-[Qiita - h-yoshikawa](https://qiita.com/h-yoshikawa)  
+[Qiita - @h-yoshikawa](https://qiita.com/h-yoshikawa)  
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/h-yoshikawa/posts.svg)](http://qiita.com/h-yoshikawa)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/h-yoshikawa/contributions.svg)](http://qiita.com/h-yoshikawa)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/h-yoshikawa/followers.svg)](http://qiita.com/h-yoshikawa)
+
+#### Crieit
+web1week という Crieit 発のハッカソンイベントが開催されたときに、レポート記事を投稿しています。  
+[Crieit - よし](https://crieit.net/users/h-yoshikawa0724)
