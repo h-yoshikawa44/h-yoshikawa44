@@ -1,4 +1,4 @@
-## 活動全体
+## GitHub 活動全体
 ![GitHub Stats Card](https://github-readme-stats.h-yoshikawa0724.vercel.app/api?username=h-yoshikawa0724&count_private=true&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.h-yoshikawa0724.vercel.app/api/top-langs/?username=h-yoshikawa0724&layout=compact)
 
@@ -9,6 +9,14 @@
 なお、このサイトは Docusaurus(v2)製です。  
 ポートフォリオの他に、勉強したことなどをドキュメントにまとめるということを少しずつやっています。  
 （少々停滞気味です...）
+
+### 精神疾患
+2019年年始に「適応障害」「不安障害」を発症。  
+数か月の休職の後、復職して少しずつ復帰していましたが、2020年秋に「適応障害」を再発。  
+現在は退職して、療養中です。
+
+マイナスに捉えられることの多い精神疾患ですが、自分はオープンにしています。  
+闘病しながら、うまい付き合い方を模索して、Web プログラマーとしての仕事は出来れば続けたいと思っています。
 
 ## 技術情報発信
 ### Twitter
@@ -26,7 +34,7 @@ Jekyll 製。
 [Change Of Pace](https://changeofpace.site/)
 
 ※プライベートリポジトリのため、リポジトリは非公開です。  
-※Zenn および Qiita に投稿した記事は、ブログにも投稿してあります。
+※Zenn および Qiita 、Crieit に投稿した記事は、ブログにも投稿してあります。
 
 #### Zenn
 2020/09のリリースより、Qiita からこちらへ移行。  
@@ -42,5 +50,5 @@ Zenn に移行前は、こちらで記事投稿をしていました。
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/h-yoshikawa/followers.svg)](http://qiita.com/h-yoshikawa)
 
 #### Crieit
-web1week という Crieit 発のハッカソンイベントが開催されたときに、レポート記事を投稿しています。  
+web1week という Crieit 発のハッカソンイベントが開催されたときに、参加レポート記事を投稿しています。  
 [Crieit - よし](https://crieit.net/users/h-yoshikawa0724)
