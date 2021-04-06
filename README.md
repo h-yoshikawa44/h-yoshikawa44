@@ -45,13 +45,18 @@ Jekyll 製。
 移行にあたって、それまで Qiita および個人ブログに投稿していた React 関連記事の一部を転載。  
 [Zenn - よし](https://zenn.dev/h_yoshikawa0724)
 
+[![h-yoshikawa44 Zenn articles](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/articles?style=plastic)](https://zenn.dev/h_yoshikawa0724/articles)
+[![h-yoshikawa44 Zenn scraps](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/scraps?style=plastic)](https://zenn.dev/h_yoshikawa0724/scraps)
+[![h-yoshikawa44 Zenn like](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/likes?style=plastic)](https://zenn.dev/h_yoshikawa0724)
+[![h-yoshikawa44 Zenn followers](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/followers?style=plastic)](https://zenn.dev/h_yoshikawa0724/followers)
+
 #### Qiita
 Zenn に移行前は、こちらで記事投稿をしていました。  
 [Qiita - @h-yoshikawa44](https://qiita.com/h-yoshikawa44)  
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/h-yoshikawa44/posts.svg)](http://qiita.com/h-yoshikawa44)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/h-yoshikawa44/contributions.svg)](http://qiita.com/h-yoshikawa44)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/h-yoshikawa44/followers.svg)](http://qiita.com/h-yoshikawa44)
+[![h-yoshikawa44 Qiita posts](https://qiita-badge.apiapi.app/s/h-yoshikawa44/posts.svg)](http://qiita.com/h-yoshikawa44)
+[![h-yoshikawa44 Qiita contributions](https://qiita-badge.apiapi.app/s/h-yoshikawa44/contributions.svg)](http://qiita.com/h-yoshikawa44)
+[![h-yoshikawa44 Qiita followers](https://qiita-badge.apiapi.app/s/h-yoshikawa44/followers.svg)](http://qiita.com/h-yoshikawa44)
 
 #### Crieit
 web1week という Crieit 発のハッカソンイベントが開催されたときに、参加レポート記事を投稿しています。  
