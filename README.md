@@ -51,8 +51,6 @@ Jekyll 製。
 [![h-yoshikawa44 Zenn like](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/likes?style=plastic)](https://zenn.dev/h_yoshikawa0724)
 [![h-yoshikawa44 Zenn followers](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/followers?style=plastic)](https://zenn.dev/h_yoshikawa0724/followers)
 
-※Zenn バッジ出典：[Zenn.badge](https://zenn-badge-nikaera.vercel.app/)
-
 #### Qiita
 Zenn に移行前は、こちらで記事投稿をしていました。  
 [Qiita - @h-yoshikawa44](https://qiita.com/h-yoshikawa44)  
