@@ -7,17 +7,18 @@
 [h-yoshikawa44's Portfolio](https://h-yoshikawa44.com/)
 
 なお、このサイトは Docusaurus(v2)製です。  
+
 ポートフォリオの他に、勉強したことなどをドキュメントにまとめるということを少しずつやっています。  
-（少々停滞気味です...）
+（しばらく停滞してしまっているので、この活動は再構築検討中です）
 
 実務経験として、フロントエンド、バックエンドともに経験はありますが、
 いまいちスキルの中途半端感があるのでフロントエンド領域のスキルを伸ばそうかと思っています。
 
 ### 精神疾患
-2019年年始に「適応障害」「不安障害」を発症。  
-数か月の休職の後、復職して少しずつ復帰していましたが、2020年秋に「適応障害」を再発。  
-現在は退職して、療養中です。
-2021/02現在、調子を見ながら、少しずつ社会復帰に向けて活動し始めてます。
+2019/01に「適応障害」「不安障害」を発症し休職。  
+2019/06に復職するも、2020/10に「適応障害」を再発し退職。  
+その後、数ヶ月は療養に専念。  
+調子がある程度落ち着いてからは、復職に向けて勉強を再開し、復職活動中。
 
 マイナスに捉えられることの多い精神疾患ですが、自分はオープンにしています。  
 闘病しながら、うまい付き合い方を模索して、Web プログラマーとしての仕事は出来れば続けたいと思っています。
@@ -50,6 +51,8 @@ Jekyll 製。
 [![h-yoshikawa44 Zenn like](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/likes?style=plastic)](https://zenn.dev/h_yoshikawa0724)
 [![h-yoshikawa44 Zenn followers](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/followers?style=plastic)](https://zenn.dev/h_yoshikawa0724/followers)
 
+※Zenn バッジ出典：[Zenn.badge](https://zenn-badge-nikaera.vercel.app/)
+
 #### Qiita
 Zenn に移行前は、こちらで記事投稿をしていました。  
 [Qiita - @h-yoshikawa44](https://qiita.com/h-yoshikawa44)  
@@ -61,3 +64,8 @@ Zenn に移行前は、こちらで記事投稿をしていました。
 #### Crieit
 web1week という Crieit 発のハッカソンイベントが開催されたときに、参加レポート記事を投稿しています。  
 [Crieit - よし](https://crieit.net/users/h-yoshikawa0724)
+
+## 出典
+- GitHub 統計：[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- Zenn バッジ：[Zenn.badge](https://zenn-badge-nikaera.vercel.app/)
+- Qiita バッジ；[Github Like Badge for Qiita](https://qiita-badge.apiapi.app/)
