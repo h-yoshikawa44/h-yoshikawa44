@@ -2,6 +2,10 @@
 ![GitHub Stats Card](https://github-readme-stats.h-yoshikawa44.vercel.app/api?username=h-yoshikawa44&count_private=true&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.h-yoshikawa44.vercel.app/api/top-langs/?username=h-yoshikawa44&layout=compact)
 
+## LAPRAS
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ## 経歴・スキル
 Docusaurus 製のポートフォリオサイトでさっくり一覧化してます。  
 [h-yoshikawa44's Portfolio](https://h-yoshikawa44.com/)
@@ -58,5 +62,6 @@ web1week という Crieit 発のハッカソンイベントが開催されたと
 
 ## 出典
 - GitHub 統計：[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- LAPRAS カード：[LAPRAS Card Readme](https://github.com/marketplace/actions/lapras-card-readme)
 - Zenn バッジ：[Zenn.badge](https://zenn-badge-nikaera.vercel.app/)
 - Qiita バッジ：[Github Like Badge for Qiita](https://qiita-badge.apiapi.app/)
