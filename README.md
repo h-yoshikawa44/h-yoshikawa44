@@ -1,6 +1,6 @@
 ## GitHub 活動全体
-![GitHub Stats Card](https://github-readme-stats.h-yoshikawa44.vercel.app/api?username=h-yoshikawa44&count_private=true&show_icons=true)
-![Top Languages Card](https://github-readme-stats.h-yoshikawa44.vercel.app/api/top-langs/?username=h-yoshikawa44&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=h-yoshikawa44&count_private=true&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=h-yoshikawa44&layout=compact)
 
 ## LAPRAS
 <!--START_SECTION:lapras-card-->
