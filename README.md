@@ -4,8 +4,8 @@
 
 ## LAPRAS
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/h-yoshikawa44" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.6&b=3.48&i=3.12&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="400" ></a>  
-Last Updated on 3/13/2023, 1:34:09 AM
+<a href="https://lapras.com/public/h-yoshikawa44" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.6&b=3.48&i=3.15&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="400" ></a>  
+Last Updated on 3/14/2023, 1:16:58 AM
 <!--END_SECTION:lapras-card-->
 
 ## 経歴・スキル
