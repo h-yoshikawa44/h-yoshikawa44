@@ -38,7 +38,7 @@ Jekyll 製。
 [Change Of Pace](https://changeofpace.site/)
 
 ※プライベートリポジトリのため、リポジトリは非公開です。  
-※Zenn および Qiita 、Crieit に投稿した記事は、ブログにも投稿してあります。
+※Zenn および Qiita 、Crieit に投稿した記事は、ブログにも投稿してあります（会社に絡むものは例外）
 
 #### Zenn
 2020/09のリリースより、Qiita からこちらへ移行。  
