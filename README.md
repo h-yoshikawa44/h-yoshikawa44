@@ -29,6 +29,11 @@ Docusaurus 製のポートフォリオサイトでさっくり一覧化してま
 自分の中では発信というより、いろんなエンジニアの方や言語・フレームワークの公式アカウントなどをフォローして、技術情報を収集する目的をメインとして使用しています。   
 [Twitter - よし](https://twitter.com/yoshi44_lion)
 
+### Bluesky
+2023/07に始めたばかりです。
+
+[Bluesky - よし](https://bsky.app/profile/h-yoshikawa44.bsky.social)
+
 ### 技術記事
 2020/09以前の活動は Qiita + 個人ブログ でした。  
 それ以降の活動は Zenn + 個人ブログで行っています。あと、たまに Crieit でも。  
