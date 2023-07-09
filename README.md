@@ -39,7 +39,7 @@ Docusaurus 製のポートフォリオサイトでさっくり一覧化してま
 それ以降の活動は Zenn + 個人ブログで行っています。あと、たまに Crieit でも。  
 
 #### 個人ブログ
-Jekyll 製。  
+Astro 製（2023/07に Jekyll からリプレース）  
 プログラミングをはじめ、関連ツールやサービス、時に雑談ネタなど投稿しています。  
 [Change Of Pace](https://changeofpace.site/)
 
