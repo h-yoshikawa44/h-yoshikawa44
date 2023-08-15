@@ -5,8 +5,8 @@
 
 ## LAPRAS
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/h-yoshikawa44" target="_blank" rel="noopener noreferrer"><img alt="h-yoshikawa44のLAPRASでのスコアは次の通りです: エンジニアリング: 3.72 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.13 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.72&b=3.48&i=3.13&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="400" ></a>  
-Last Updated on 7/15/2023, 11:21:10 AM</p>
+<p ><a href="https://lapras.com/public/h-yoshikawa44" target="_blank" rel="noopener noreferrer"><img alt="h-yoshikawa44のLAPRASでのスコアは次の通りです: エンジニアリング: 3.96 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.12 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.96&b=3.48&i=3.12&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="400" ></a>  
+Last Updated on 8/15/2023, 2:42:51 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 経歴・スキル
