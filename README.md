@@ -10,7 +10,7 @@ Last Updated on 6/1/2024, 8:34:50 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 経歴・スキル
-Docusaurus 製のポートフォリオサイトでさっくり一覧化してます。  
+Docusaurus 製のポートフォリオサイトでさっくり一覧化してます（リプレースしたさがある）  
 [h-yoshikawa44's Portfolio](https://h-yoshikawa44.com/)
 
 実務経験として、フロントエンド、バックエンドともに経験はありますが、  
@@ -24,13 +24,13 @@ Docusaurus 製のポートフォリオサイトでさっくり一覧化してま
 闘病しながら、うまい付き合い方を模索して、Web Developer としての仕事は出来ればこのまま続けたいと思っています。
 
 ## 技術情報発信
-### Twitter
+### X
 技術に関することから日常のことまで、色々つぶやいてます。  
 自分の中では発信というより、いろんなエンジニアの方や言語・フレームワークの公式アカウントなどをフォローして、技術情報を収集する目的をメインとして使用しています。   
-[Twitter - よし](https://twitter.com/yoshi44_lion)
+[X - よし](https://x.com/yoshi44_lion)
 
 ### Bluesky
-2023/07に始めたばかりです。
+2023/07に始めました。ほとんど活用できてない問題。
 
 [Bluesky - よし](https://bsky.app/profile/h-yoshikawa44.bsky.social)
 
