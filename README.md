@@ -63,10 +63,6 @@ Zenn に移行前は、こちらで記事投稿をしていました。
 [![h-yoshikawa44 Qiita contributions](https://qiita-badge.apiapi.app/s/h-yoshikawa44/contributions.svg)](http://qiita.com/h-yoshikawa44)
 [![h-yoshikawa44 Qiita followers](https://qiita-badge.apiapi.app/s/h-yoshikawa44/followers.svg)](http://qiita.com/h-yoshikawa44)
 
-#### Crieit
-web1week という Crieit 発のハッカソンイベントが開催されたときに、参加レポート記事を投稿しています。  
-[Crieit - よし](https://crieit.net/users/h-yoshikawa0724)
-
 ## 出典
 - GitHub 統計：[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - LAPRAS カード：[LAPRAS Card Readme](https://github.com/marketplace/actions/lapras-card-readme)
