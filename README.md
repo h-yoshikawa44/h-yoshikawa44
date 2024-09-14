@@ -1,8 +1,6 @@
 ## GitHub 活動全体
 ※Private リポジトリ含む  
 ![GitHub Stats Card](https://github-readme-stats-h-yoshikawa44.vercel.app/api?username=h-yoshikawa44&count_private=true&show_icons=true&theme=apprentice)
-
-※MDX ファイルは除く
 ![Top Languages Card](https://github-readme-stats-h-yoshikawa44.vercel.app/api/top-langs/?username=h-yoshikawa44&layout=compact&theme=apprentice)
 
 ## LAPRAS
