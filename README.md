@@ -63,6 +63,26 @@ Zenn に移行前は、こちらで記事投稿をしていました。
 [![h-yoshikawa44 Qiita contributions](https://qiita-badge.apiapi.app/s/h-yoshikawa44/contributions.svg)](http://qiita.com/h-yoshikawa44)
 [![h-yoshikawa44 Qiita followers](https://qiita-badge.apiapi.app/s/h-yoshikawa44/followers.svg)](http://qiita.com/h-yoshikawa44)
 
+## リポジトリの活動
+### 個人開発
+- [change-of-pace-astro](https://github.com/h-yoshikawa44/change-of-pace-astro)：個人ブログサイト
+- [portfolio](https://github.com/h-yoshikawa44/portfolio)：ポートフォリオサイト
+
+### イベント
+- [jigsaw-like-puzzle](https://github.com/h-yoshikawa44/jigsaw-like-puzzle)：web1week「Like」の投稿作品
+- [close-to-2](https://github.com/h-yoshikawa44/close-to-2)：web1week「2」の投稿作品
+
+### 課題
+#### devChallenges
+[devChallenges](https://devchallenges.io/) による課題の投稿作品。  
+`ch-`のプレフィックスのリポジトリが該当。
+
+- 現行課題：現在の課題サイト（2023/09/23～）で公開されている課題。
+  - サイト内のでの独自のデザイン情報表示とユーザストーリーをベースに作成
+  - 無償プランでは Figma 上でのデザインを確認することができないため、余白の正確な値がわからず、Legacy 版ほどはきっちりデザインに寄せられていない
+- Legacy 課題：旧課題サイト（～2023/9/23）で公開されていた課題。現在はサイトがクローズされている。
+  - Figma のデザインとユーザストーリーをベースに作成するもの
+
 ## 出典
 - GitHub 統計：[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - LAPRAS カード：[LAPRAS Card Readme](https://github.com/marketplace/actions/lapras-card-readme)
