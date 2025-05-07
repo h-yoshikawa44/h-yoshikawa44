@@ -50,18 +50,18 @@ Astro 製（2023/07に Jekyll からリプレース）
 移行にあたって、それまで Qiita および個人ブログに投稿していた React 関連記事の一部を転載。  
 [Zenn - よし](https://zenn.dev/h_yoshikawa0724)
 
-[![h-yoshikawa44 Zenn articles](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/articles?style=plastic)](https://zenn.dev/h_yoshikawa0724/articles)
-[![h-yoshikawa44 Zenn scraps](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/scraps?style=plastic)](https://zenn.dev/h_yoshikawa0724/scraps)
-[![h-yoshikawa44 Zenn like](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/likes?style=plastic)](https://zenn.dev/h_yoshikawa0724)
-[![h-yoshikawa44 Zenn followers](https://zenn.badge.nikaera.com/s/h_yoshikawa0724/followers?style=plastic)](https://zenn.dev/h_yoshikawa0724/followers)
+[![Zenn - Articles](https://badgen.org/img/zenn/h_yoshikawa0724/articles?style=plastic)](https://zenn.dev/h_yoshikawa0724)
+[![Zenn - Scraps](https://badgen.org/img/zenn/h_yoshikawa0724/scraps?style=plastic)](https://zenn.dev/h_yoshikawa0724?tab=scraps)
+[![Zenn - Likes](https://badgen.org/img/zenn/h_yoshikawa0724/likes?style=plastic)](https://zenn.dev/h_yoshikawa0724)
+[![Zenn - Followers](https://badgen.org/img/zenn/h_yoshikawa0724/followers?style=plastic)](https://zenn.dev/h_yoshikawa0724)
 
 #### Qiita
 Zenn に移行前は、こちらで記事投稿をしていました。  
 [Qiita - @h-yoshikawa44](https://qiita.com/h-yoshikawa44)  
 
-[![h-yoshikawa44 Qiita posts](https://qiita-badge.apiapi.app/s/h-yoshikawa44/posts.svg)](http://qiita.com/h-yoshikawa44)
-[![h-yoshikawa44 Qiita contributions](https://qiita-badge.apiapi.app/s/h-yoshikawa44/contributions.svg)](http://qiita.com/h-yoshikawa44)
-[![h-yoshikawa44 Qiita followers](https://qiita-badge.apiapi.app/s/h-yoshikawa44/followers.svg)](http://qiita.com/h-yoshikawa44)
+[![Qiita - Contributions](https://badgen.org/img/qiita/h-yoshikawa44/contributions?style=plastic)](https://qiita.com/h-yoshikawa44)
+[![Qiita - Followers](https://badgen.org/img/qiita/h-yoshikawa44/followers?style=plastic)](https://qiita.com/h-yoshikawa44)
+[![Qiita - Followers](https://badgen.org/img/qiita/h-yoshikawa44/followers?style=plastic)](https://qiita.com/h-yoshikawa44)
 
 ## リポジトリの活動
 ### 個人開発
@@ -86,5 +86,4 @@ Zenn に移行前は、こちらで記事投稿をしていました。
 ## 出典
 - GitHub 統計：[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - LAPRAS カード：[LAPRAS Card Readme](https://github.com/marketplace/actions/lapras-card-readme)
-- Zenn バッジ：[Zenn.badge](https://zenn-badge-nikaera.vercel.app/)
-- Qiita バッジ：[Github Like Badge for Qiita](https://qiita-badge.apiapi.app/)
+- Zenn, Qiita バッジ：[Badge Generator](https://badgen.org/)
