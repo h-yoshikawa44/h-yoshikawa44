@@ -10,7 +10,7 @@ Last Updated on 2/14/2026, 10:18:28 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 経歴・スキル
-TanStack Start 製のポートフォリオサイトでさっくり一覧化してます（2026/02 に Docusaurus からリプレース）  
+スキルや個人成果物は TanStack Start 製のポートフォリオサイトでさっくり一覧化してます（2026/02 に Docusaurus からリプレース）  
 [h-yoshikawa44's Portfolio](https://h-yoshikawa44.com/)
 
 実務経験として、フロントエンド、バックエンドともに経験はありますが、  
