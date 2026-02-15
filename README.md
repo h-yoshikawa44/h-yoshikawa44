@@ -10,7 +10,7 @@ Last Updated on 2/14/2026, 10:18:28 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 経歴・スキル
-Docusaurus 製のポートフォリオサイトでさっくり一覧化してます（リプレースしたさがある）  
+TanStack Start 製のポートフォリオサイトでさっくり一覧化してます（2026/02 に Docusaurus からリプレース）
 [h-yoshikawa44's Portfolio](https://h-yoshikawa44.com/)
 
 実務経験として、フロントエンド、バックエンドともに経験はありますが、  
@@ -30,7 +30,7 @@ Docusaurus 製のポートフォリオサイトでさっくり一覧化してま
 [X - よし](https://x.com/yoshi44_lion)
 
 ### Bluesky
-2023/07に始めました。ほとんど活用できてない問題。
+2023/07に始めました。2026年くらいから、X とクロス投稿するようになりました。
 
 [Bluesky - よし](https://bsky.app/profile/h-yoshikawa44.bsky.social)
 
