@@ -10,7 +10,7 @@ Last Updated on 2/14/2026, 10:18:28 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 経歴・スキル
-スキルや個人成果物は TanStack Start 製のポートフォリオサイトでさっくり一覧化してます（2026/02 に Docusaurus からリプレース）  
+スキルや個人成果物は TanStack Start 製のポートフォリオサイトでさっくり一覧化してます。    
 [h-yoshikawa44's Portfolio](https://h-yoshikawa44.com/)
 
 実務経験として、フロントエンド、バックエンドともに経験はありますが、  
@@ -39,7 +39,7 @@ Last Updated on 2/14/2026, 10:18:28 AM</p>
 それ以降の活動は Zenn + 個人ブログで行っています。
 
 #### 個人ブログ
-Astro 製（2023/07に Jekyll からリプレース）  
+Astro 製。  
 プログラミングをはじめ、関連ツールやサービス、時に雑談ネタなど投稿しています。  
 [Change Of Pace](https://changeofpace.site/)
   
@@ -65,8 +65,8 @@ Zenn に移行前は、こちらで記事投稿をしていました。
 
 ## リポジトリの活動
 ### 個人開発
-- [change-of-pace-astro](https://github.com/h-yoshikawa44/change-of-pace-astro)：個人ブログサイト
-- [portfolio](https://github.com/h-yoshikawa44/portfolio)：ポートフォリオサイト
+- [change-of-pace-astro](https://github.com/h-yoshikawa44/change-of-pace-astro)：個人ブログサイト（2023/07に Jekyll からリプレース）
+- [portfolio-tanstack](https://github.com/h-yoshikawa44/portfolio-tanstack)：ポートフォリオサイト（2026/02 に Docusaurus からリプレース）
 
 ### イベント
 - [jigsaw-like-puzzle](https://github.com/h-yoshikawa44/jigsaw-like-puzzle)：web1week「Like」の投稿作品
