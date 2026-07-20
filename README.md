@@ -3,12 +3,6 @@
 ![GitHub Stats Card](https://github-readme-stats-livid-psi-45.vercel.app/api?username=h-yoshikawa44&count_private=true&show_icons=true&theme=apprentice)
 ![Top Languages Card](https://github-readme-stats-livid-psi-45.vercel.app/api/top-langs/?username=h-yoshikawa44&layout=compact&theme=apprentice)
 
-## LAPRAS
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/h-yoshikawa44" target="_blank" rel="noopener noreferrer"><img alt="h-yoshikawa44のLAPRASでのスコアは次の通りです: エンジニアリング: 3.83 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.32 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.83&b=3.48&i=3.32&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="400" ></a>  
-Last Updated on 7/1/2026, 3:57:23 AM</p>
-<!--END_SECTION:lapras-card-->
-
 ## 経歴・スキル
 スキルや個人成果物は TanStack Start 製のポートフォリオサイトでさっくり一覧化してます。    
 [h-yoshikawa44's Portfolio](https://h-yoshikawa44.com/)
@@ -87,5 +81,4 @@ Zenn に移行前は、こちらで記事投稿をしていました。
 
 ## 出典
 - GitHub 統計：[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- LAPRAS カード：[LAPRAS Card Readme](https://github.com/marketplace/actions/lapras-card-readme)
 - Zenn, Qiita バッジ：[Badge Generator](https://badgen.org/)
